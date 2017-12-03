@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <menu name="select_action_menu">res/menu/select_action_menu.xml</menu>
+</resources>

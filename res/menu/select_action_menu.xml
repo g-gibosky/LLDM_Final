@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="?unknown_attr_ref: 1010311" android:id="@id/select_action_menu_cut" android:title="0x1040003" android:alphabeticShortcut="x" android:showAsAction="always|withText" />
+    <item android:icon="?unknown_attr_ref: 1010312" android:id="@id/select_action_menu_copy" android:title="0x1040001" android:alphabeticShortcut="c" android:showAsAction="always|withText" />
+    <item android:icon="?unknown_attr_ref: 1010313" android:id="@id/select_action_menu_paste" android:title="0x104000b" android:alphabeticShortcut="v" android:showAsAction="always|withText" />
+    <item android:id="@id/select_action_menu_share" android:title="@string/actionbar_share" android:showAsAction="always|withText" style="@style/SelectActionMenuShare" />
+    <item android:icon="?unknown_attr_ref: 101037e" android:id="@id/select_action_menu_select_all" android:title="0x104000d" android:alphabeticShortcut="a" android:showAsAction="always|withText" />
+    <group android:id="@id/select_action_menu_text_processing_menus" />
+    <item android:id="@id/select_action_menu_web_search" android:title="@string/actionbar_web_search" android:showAsAction="always|withText" style="@style/SelectActionMenuWebSearch" />
+</menu>

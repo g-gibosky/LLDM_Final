@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <raw name="empty">res/raw/empty.wav</raw>
+    <raw name="icudtl">res/raw/icudtl.dat</raw>
+    <raw name="launch_screen_api">res/raw/launch_screen_api.js</raw>
+    <raw name="wifidirect_api">res/raw/wifidirect_api.js</raw>
+    <raw name="xwalk">res/raw/xwalk.pak</raw>
+    <raw name="xwalk_100_percent">res/raw/xwalk_100_percent.pak</raw>
+</resources>

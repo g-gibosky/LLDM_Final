@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="select_dialog_multichoice">
+        <item>1</item>
+    </attr>
+    <attr name="select_dialog_singlechoice">
+        <item>1</item>
+    </attr>
+    <attr name="buttonColor">
+        <item>17</item>
+    </attr>
+    <attr name="buttonRaised">
+        <item>8</item>
+    </attr>
+    <attr name="stackedMargin">
+        <item>1</item>
+    </attr>
+    <attr name="primaryButtonText">
+        <item>3</item>
+    </attr>
+    <attr name="secondaryButtonText">
+        <item>3</item>
+    </attr>
+    <attr name="leading">
+        <item>65</item>
+    </attr>
+</resources>

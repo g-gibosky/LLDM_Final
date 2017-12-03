@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonCompat">
+        <item>1</item>
+        <item>@drawable/button_compat_shape</item>
+    </style>
+    <style name="ButtonCompat">
+        <item>1</item>
+        <item>@drawable/button_compat_shape</item>
+    </style>
+    <style name="ButtonCompat">
+        <item>@drawable/button_compat</item>
+        <item>sans-serif-medium</item>
+    </style>
+    <style name="ButtonCompatBase">
+        <item>14sp</item>
+        <item>11</item>
+        <item>20dp</item>
+        <item>5dp</item>
+        <item>20dp</item>
+        <item>5dp</item>
+        <item>true</item>
+        <item>true</item>
+        <item>88dp</item>
+        <item>36dp</item>
+        <item>true</item>
+    </style>
+    <style name="ButtonCompatBase">
+        <item>14sp</item>
+        <item>11</item>
+        <item>5dp</item>
+        <item>5dp</item>
+        <item>true</item>
+        <item>true</item>
+        <item>88dp</item>
+        <item>36dp</item>
+        <item>true</item>
+        <item>20dp</item>
+        <item>20dp</item>
+    </style>
+    <style name="ButtonCompatBorderless">
+        <item>?unknown_attr_ref: 101030e</item>
+    </style>
+    <style name="ButtonCompatBorderless">
+        <item>?unknown_attr_ref: 101030e</item>
+    </style>
+    <style name="ButtonCompatBorderless">
+        <item>@drawable/button_borderless_compat</item>
+    </style>
+    <style name="ButtonCompatBorderlessOverlay">
+        <item>@style/ButtonCompatBorderless</item>
+    </style>
+    <style name="ButtonCompatBorderlessOverlay">
+        <item>@style/ButtonCompatBorderless</item>
+    </style>
+    <style name="ButtonCompatOverlay">
+        <item>@style/ButtonCompat</item>
+    </style>
+    <style name="ButtonCompatOverlay">
+        <item>@style/ButtonCompat</item>
+    </style>
+    <style name="DropdownPopupWindow">
+        <item>@drawable/dropdown_popup_background</item>
+    </style>
+    <style name="DropdownPopupWindow">
+        <item>@drawable/dropdown_popup_background</item>
+    </style>
+    <style name="SelectActionMenuShare">
+        <item>@drawable/ic_menu_share_holo_light</item>
+    </style>
+    <style name="SelectActionMenuShare">
+        <item>@drawable/ic_menu_share_holo_light</item>
+    </style>
+    <style name="SelectActionMenuShare">
+        <item>?unknown_attr_ref: 1010479</item>
+    </style>
+    <style name="SelectActionMenuWebSearch">
+        <item>@drawable/ic_search</item>
+    </style>
+    <style name="SelectActionMenuWebSearch">
+        <item>@drawable/ic_search</item>
+    </style>
+    <style name="SelectActionMenuWebSearch">
+        <item>?unknown_attr_ref: 101047b</item>
+    </style>
+    <style name="SelectPopupDialog">
+        <item>?unknown_ref: 1090013</item>
+        <item>?unknown_ref: 1090012</item>
+    </style>
+    <style name="SelectPopupDialog">
+        <item>?unknown_ref: 1090013</item>
+        <item>?unknown_ref: 1090012</item>
+    </style>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content"
+    <LinearLayout android:gravity="top|bottom|center_vertical|fill_vertical|center|fill" android:orientation="vertical" android:id="@id/dropdown_label_wrapper" android:layout_width="UNKNOWN_DATA_0x1" android:layout_height="UNKNOWN_DATA_0x1" android:layout_weight="1.0">
+        <TextView android:textSize="18sp" android:textColor="@drawable/dropdown_label_color" android:ellipsize="end" android:id="@id/dropdown_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:includeFontPadding="false" android:textAlignment="viewStart" android:layout_marginStart="10dp" android:layout_marginEnd="10dp" />
+        <TextView android:textSize="14sp" android:textColor="#646464" android:ellipsize="end" android:id="@id/dropdown_sublabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:includeFontPadding="false" android:textAlignment="viewStart" android:layout_marginStart="10dp" android:layout_marginEnd="10dp" />
+    </LinearLayout>
+    <ImageView android:id="@id/dropdown_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="8dp" android:contentDescription="0x0" />
+</LinearLayout>

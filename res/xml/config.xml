@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns:android="http://www.w3.org/ns/widgets" id="io.cordova.helloCordova" version="2.0.0">
+    <name
+        Hello Cordova />
+    <description
+        A sample Apache Cordova application that responds to the deviceready
+        event. />
+    <author email="dev@cordova.apache.org" href="http://cordova.io"
+        Apache Cordova Team />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-intent href="market:*" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="webView" value="org.crosswalk.engine.XWalkWebViewEngine" />
+    <preference name="xwalkVersion" value="23+" />
+    <preference name="xwalkLiteVersion" value="xwalk_core_library_canary:17+" />
+    <preference name="xwalkCommandLine" value="--disable-pull-to-refresh-effect" />
+    <preference name="xwalkMode" value="embedded" />
+    <preference name="xwalkMultipleApk" value="true" />
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </http://www.w3.org/ns/widgets:feature>
+    <preference name="permissions" value="none" />
+    <preference name="android-targetSdkVersion" value="21" />
+    <preference name="orientation" value="default" />
+    <preference name="fullscreen" value="true" />
+    <preference name="deployment-target" value="8.0" />
+    <preference name="android-minSdkVersion" value="16" />
+    <content src="index.html" />
+</http://www.w3.org/ns/widgets:widget>
